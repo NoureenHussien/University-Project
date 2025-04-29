@@ -1,37 +1,24 @@
-# University-Project
-This repository contains the files for a university project focused on managing and analyzing exam schedules and course conflicts. It includes an HTML-based exam timetable and a Python script for storing and analyzing course conflict data using the Neo4j graph database.
------------------
-This repository contains the files for a university project. It includes:
+# University Project
 
-* `complete_exam_timetable.html`: An HTML file containing the exam timetable.
-* `Neo4j.py`: A Python script to store course conflict data in a Neo4j graph database.
-
+This repository contains files related to a university project focused on managing and analyzing academic schedules and potential conflicts.
+-
 ## Description
 
-The project aims to manage and analyze university course schedules and potential conflicts. 
-The `complete_exam_timetable.html` file provides a visual representation of the exam schedule. 
-The `Neo4j.py` script processes course data to identify conflicts and stores this information in a graph database for further analysis and optimization of scheduling.
+The project aims to manage and analyze university course schedules and potential conflicts. It provides tools for visualizing schedules and processing course data to identify conflicts, enabling improved scheduling and resource allocation.
 
-## Files Included
+## Key Features
 
-* **`complete_exam_timetable.html`**:
-    *     This file displays the exam timetable in a user-friendly HTML format.
-    *     It includes styling (CSS) to present the schedule clearly with color-coded periods and room usage information.
-
-* **`Neo4j.py`**:
-    *     This Python script uses the `neo4j` library to interact with a Neo4j graph database.
-    *     It takes course data (presumably from a separate source, like a CSV or DataFrame) and creates nodes for courses and relationships for conflicts based on shared students.
-    *     It's designed to help visualize and analyze course conflicts to improve scheduling.
+* **Schedule Visualization:** Tools for displaying and viewing academic schedules in a user-friendly format. These tools may include features like styling and color-coding for clarity.
+* **Conflict Analysis:** Scripts and processes for analyzing course data to identify potential conflicts, such as scheduling overlaps or resource contention. This analysis may involve using graph databases to model and explore relationships between courses.
 
 ## Usage
 
-* To view the exam timetable, simply open the `complete_exam_timetable.html` file in any web browser.
-* To run the `Neo4j.py` script, you need to have Python installed, along with the `neo4j` and `pandas` libraries.  You also need a running Neo4j database instance.  Modify the connection details in the script to match your Neo4j setup.
+* To view schedules, you may need to open the provided files in a web browser or use specific software, depending on the file type.
+* To run conflict analysis scripts, you'll typically need to have programming languages and specific libraries installed. You might also require access to a database instance. Refer to the script documentation for detailed instructions.
 
 ## Dependencies
 
-* `neo4j` (Python library for Neo4j)
-* `pandas` (Python library for data manipulation, if used in conjunction with this script)
+* [List any major dependencies, e.g., programming languages, libraries, databases]
 
 ## License
 
