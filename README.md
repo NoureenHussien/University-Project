@@ -1,6 +1,6 @@
 # University Project
 
-###This repository contains files related to a university project focused on managing and analyzing academic schedules and potential conflicts.
+### This repository contains files related to a university project focused on managing and analyzing academic schedules and potential conflicts.
 -
 ## Description
 
