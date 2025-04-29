@@ -1,7 +1,7 @@
 # University Project
 
-### This repository contains files related to a university project focused on managing and analyzing academic schedules and potential conflicts.
--
+ This repository contains files related to a university project focused on managing and analyzing academic schedules and potential conflicts.
+
 ## Description
 
 The project aims to manage and analyze university course schedules and potential conflicts. It provides tools for visualizing schedules and processing course data to identify conflicts, enabling improved scheduling and resource allocation.
