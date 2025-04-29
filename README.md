@@ -33,10 +33,6 @@ The `Neo4j.py` script processes course data to identify conflicts and stores thi
 * `neo4j` (Python library for Neo4j)
 * `pandas` (Python library for data manipulation, if used in conjunction with this script)
 
-## Author
-
-Your Name  (Replace with your name)
-
 ## License
 
-[Specify License, e.g., MIT License] (Optional)
+[Specify License, e.g., MIT License] 
